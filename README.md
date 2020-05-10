@@ -19,12 +19,12 @@ WLI-Solution: Excersise_OpenSenseMap_v2
      * download der openbeer Datenbank von: https://openbeerdb.com/, "openbeerdb_csv.zip" (Man darf sich den Link vorher zusammenbauen. Die Idee ist jedoch, dass nach dem publizieren eines Notebooks/Code dieser Standalone ist und man keine weiteren Interkationen vom benutzer benötigt)
      * unzip und einlesen der csv in python
 
-2 A) Einlesen der Daten in eine Klasse die Datenverarbeitung auf python ermöglicht
+2) (oder 2A) Einlesen der Daten in eine Klasse die Datenverarbeitung auf python ermöglicht
      * Welches Paket ist gut geeignet und warum?
      * Einlesen der Daten in dieses Paket.
      * Erstellen einer "Qualitativen Zusammenfassung" zu den Daten.
 
-2 B) Einlesen der Daten in eine lokalen Datenbank
+2) (oder 2B) Einlesen der Daten in eine lokalen Datenbank
      * Welche Datenbank ist gut geeignet und warum?
      * Einlesen der Daten in diese Datenbank.
      * Erstellen einer "Qualitativen Zusammenfassung" zu den Daten.
